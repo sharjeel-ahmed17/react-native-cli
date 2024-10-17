@@ -16,7 +16,7 @@ const App = () => {
         fontSize: 50,
         color: '#333333',
 
-      }}>Hello world</Text>
+      }}>  sharjeel ahmed react native develpors Hello world</Text>
     </View>
   )
 }
